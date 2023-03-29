@@ -12,6 +12,12 @@ Feel free to ask questions, follow, or contact for any needs! Thank you!
 
 This is a porfolio that wil be used to put my skillsets, experience, and personality on display for those curious! It will include previous and current projects that are either actively being refactored or refined in some way!
 
+## Credit
+Fotor picture editor!
+https://www.fotor.com/photo-editor-app/editor/basic
+
+Bitmoji for avatar creation! https://www.bitmoji.com/
+
 ## License
 MIT License (see repo)
 
@@ -20,7 +26,7 @@ MIT License (see repo)
 - Developer's Name
 
 - Recent photo/avatar
-
+![image](assets/images/Avatar%20for%20portfolio.png)
 - links to about me section
 
 - links to my work

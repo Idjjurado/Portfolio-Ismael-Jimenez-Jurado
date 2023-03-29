@@ -2,4 +2,9 @@
 motto
 header.h1.h2
 footer
+bitmoji
  */
+
+.bitmoji {
+    border-radius: 50% 50% 0 0;
+}
