@@ -1,5 +1,5 @@
 # Ismael Jimenez-Jurado Portfolio
-link:  
+link:  https://idjjurado.github.io/Portfolio-Ismael-Jimenez-Jurado/
 
 ## Description
 Within this portfolio you will find the progression of my projects from HTML, CSS, as well as JavaScript! 
