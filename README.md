@@ -13,6 +13,15 @@ Feel free to ask questions, follow, or contact for any needs! Thank you!
 This is a porfolio that wil be used to put my skillsets, experience, and personality on display for those curious! It will include previous and current projects that are either actively being refactored or refined in some way!
 
 ## Credit
+
+🎄Theresa Cao! (TreeCao) for README.md Template!🎄
+
+🎄TREE - GH: https://github.com/treecao🎄
+
+📚Link to README.md template!📚
+
+📚https://github.com/treecao/portfolio/blob/main/README.md📚
+
 Fotor picture editor!
 https://www.fotor.com/photo-editor-app/editor/basic
 
