@@ -58,13 +58,15 @@ nav a.bottnav {
     padding-right: 20px;
 }
 
+.mashed {
+}
+
 #bitmoji {
     width: 200px;
     border: 25px;
     border-style: groove;
     border-radius: 50%;
     border-color: var(--UT);
-    align-items: end;
     display: -webkit-box;
     margin-left: auto;
     margin-right: 30px;
@@ -82,3 +84,32 @@ footer {
 #motto {
     text-align: center;
 }
+
+/* @media screen and (max-width: 992px) {
+  header {
+    background: #772014;
+  }
+
+  .card {
+    width: 50%;
+  }
+
+  .card header {
+    background: #772014;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  header {
+    background: #8ac4ff;
+  }
+
+  .card {
+    width: 100%;
+  }
+
+  .card header {
+    background: #8ac4ff;
+  }
+  
+} */
