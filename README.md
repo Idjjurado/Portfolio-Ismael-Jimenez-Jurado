@@ -52,6 +52,6 @@ MIT License (see repo)
 
 - responsive layout when resize the page or view on various screens/devices
 
-Large Screen:
+- large screen functions
 
-Small Screen:
+- small screen functions
